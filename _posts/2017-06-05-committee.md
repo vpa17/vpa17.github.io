@@ -29,6 +29,7 @@ Kevin Huck, University of Oregon\\
 Katherine Isaacs, University of Arizona\\
 Yarden Livnat, University of Utah\\
 Naoya Maruyama, Lawrence Livermore National Laboratory\\
+Bernd Mohr, Juelich Supercomputing Center\\
 Ananya Muddukrishna, KTH Royal Institute of Technology\\
 Matthias Mueller, RWTH Aachen University\\
 Valerio Pascucci, University of Utah\\
