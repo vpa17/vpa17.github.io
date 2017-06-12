@@ -17,7 +17,7 @@ Martin Schulz, Lawrence Livermore National Laboratory
 Fabian Beck, University of Duisburg-Essen\\
 Abhinav Bhatele, Lawrence Livermore National Laboratory\\
 Judit Gimenez, Barcelona Supercomputing Center\\
-Joshua Levine, University of Arizona
+Joshua A. Levine, University of Arizona
 
 ## Program Committee
 
