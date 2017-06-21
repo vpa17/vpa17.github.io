@@ -37,3 +37,17 @@ Valerio Pascucci, University of Utah\\
 Paul Rosen, University of South Florida\\
 Carlos Scheidegger, University of Arizona\\
 Chad Steed, Oak Ridge National Laboratory
+
+<br />
+<br />
+
+
+<div style="text-align:center;">
+  <img style="height: 50px;" src="img/logo_es-1-700x188.jpg" />
+  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+  <img style="height: 50px;" src="img/llnl.png" />
+  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+  <img style="height: 50px;" src="img/ua_horiz_rgb.png" />
+  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+  <img style="height: 50px;" src="img/Duisburg-Essen.png" />
+</div>
