@@ -22,6 +22,7 @@ Joshua A. Levine, University of Arizona
 ## Program Committee
 
 Harsh Bhatia, Lawrence Livermore National Laboratory\\
+Holger Brunst, TU Dresden\\
 Alexandru Calotoiu, Technical University Darmstadt\\
 Todd Gamblin, Lawrence Livermore National Laboratory\\
 Marc-Andre Hermanns, Juelich Supercomputing Center\\
